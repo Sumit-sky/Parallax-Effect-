@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.parallax1{
+    height: 600px;
+    width: 100%;
+    background-image: url(1.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.parallax1 h2{
+    position: relative;
+    color: white;
+    left: 500px;
+    top: 300px;
+    width: 300px;
+    padding: 10px;
+    height: 80px;
+}
+
+.parallax2{
+    height: 600px;
+    width: 100%;
+    background-image: url(3.jpg);
+    background-size:100% 100% ;
+    background-attachment: fixed;
+}
+
+.parallax2 h2{
+    position: relative;
+    color: white;
+    left: 500px;
+    top: 300px;
+    width: 300px;
+    padding: 10px;
+    height: 80px;
+}
+
+.para{
+    width: 100%;
+    padding: 30px;
+    height: 100px;
+    font: 20px;
+    background-color: black;
+    color: white;
+}
+
